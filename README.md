@@ -1,6 +1,6 @@
 # mtmr-cfg
 ### Default touchbar with displaying the current Spotify track
-
+![](https://github.com/vsgusev/mtmr-cfg/blob/main/main.png)
 * Reduce brightness
 * Increase brightness
 * Reduce keyboard backlit
